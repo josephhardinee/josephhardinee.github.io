@@ -21,7 +21,7 @@ use_math: true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-gist
